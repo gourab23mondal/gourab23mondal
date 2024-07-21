@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gourab23mondal
+- 👋 Hi, I’m Gourav Mondal
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Java/python
 - 💞️ I’m looking to collaborate on ...
